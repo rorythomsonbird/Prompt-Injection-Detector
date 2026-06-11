@@ -20,7 +20,7 @@ If you're building an app that feeds user text into an LLM, you want to catch st
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/prompt-injection-detector.git](https://github.com/rorythomsonbird/Prompt-Injection-Detector.git
+git clone https://github.com/rorythomsonbird/Prompt-Injection-Detector.git
 cd prompt-injection-detector
 ```
 
